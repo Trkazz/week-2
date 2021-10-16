@@ -1,4 +1,7 @@
-.section{
-    display:flex;
 
+section{ 
+    display:flex;
+    padding: 10em;
+    background-color:rgb(241, 239, 235);
+    
 }
